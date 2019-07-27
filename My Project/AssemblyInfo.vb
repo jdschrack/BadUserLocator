@@ -10,9 +10,9 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("BadUserLocator")> 
 <Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("UnitedHealth Group")> 
+<Assembly: AssemblyCompany("Jeremey Schrack")> 
 <Assembly: AssemblyProduct("BadUserLocator")> 
-<Assembly: AssemblyCopyright("Copyright © UnitedHealth Group 2012")> 
+<Assembly: AssemblyCopyright("Copyright © Jeremey Schrack 2012")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
